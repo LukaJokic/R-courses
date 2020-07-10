@@ -1,0 +1,27 @@
+Hi, welcome to my introductory course of R programming language.
+In this video I will first introduce myself in a few sentences and present the summary of this course.
+My name is Luka and I will introduce some basic concepts in R in the next few videos.
+I have been using R for five years now for different purposes, both personal and business.
+
+The introductory course consists of five videos split by the following steps.
+1. Packages
+2. Importing and transforming data
+3. Exploring and summarizing data 
+4. Visualization
+5. Saving results
+
+In the first video, I talk about some fundamental group of packages I use for each project.
+I do not show how to download and install R and R studio as there are million videos that explain that thoroughly.
+In this video you will se how to install and load packages and find out which are main functions from each package.
+
+In the second video I concentrate on import of data from different sources.
+In addition, I show how to convert and transform data so that it is suitable for succeeding analyses.
+
+Third video is about exploring and summarizing data, finding valuable patterns from data as well as presenting various aggregate functions.
+
+After data is ready, the next step is presenting it graphically using R visualization functions which is shown in the fourth video.
+
+In the last video, I explain how to save results.
+
+I hope this is going to be interesting and educative journey!
+Thank you and enjoy!
