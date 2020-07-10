@@ -1,9 +1,11 @@
 Hi, welcome to my introductory course of R programming language.
-In this video I will first introduce myself in a few sentences and present the summary of this course.
-My name is Luka and I will introduce some basic concepts in R in the next few videos.
-I have been using R for five years now for different purposes, both personal and business.
+In this video I will introduce myself and the summary of this course in a few sentences.
 
-The introductory course consists of five videos split by the following steps.
+My name is Luka and I have been using R for five years now for different purposes, both personal and business.
+I have master's in Statistics and Quantitative Finance and work in a bank as a risk modeller.
+
+I will present some basic concepts in R in the next few videos.
+This introductory course consists of five videos split by the following steps.
 
 1. Packages.
 
@@ -18,14 +20,14 @@ The introductory course consists of five videos split by the following steps.
 
 In the first video, I talk about some fundamental group of packages I use for each project.
 I do not show how to download and install R and R studio as there are million videos that explain that thoroughly.
-In this video you will see how to install and load packages and find out which are main functions from each package.
+In this video you will see how to install and load packages and find out which are main functions in each package.
 
-In the second video I concentrate on import of data from different sources.
-In addition, I show how to convert and transform data so that it is suitable for succeeding analyses.
+In the second video I concentrate on importing the data from different sources.
+In addition, I show how to convert and transform the data so that it is suitable for succeeding analyses.
 
-Third video is about exploring and summarizing data, finding valuable patterns from data as well as presenting various aggregate functions.
+Third video is about exploring and summarizing data, finding valuable patterns as well as introducing various aggregate functions.
 
-After data is ready, the next step is presenting it graphically using R visualization functions which is shown in the fourth video.
+The next step is presenting results graphically using R visualization functions which is shown in the fourth video.
 
 In the last video, I explain how to save results.
 
